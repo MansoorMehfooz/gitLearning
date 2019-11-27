@@ -1,2 +1,2 @@
 This is my first git commit
-That's the second line
+Second line deleted
